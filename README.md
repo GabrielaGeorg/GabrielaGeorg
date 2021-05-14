@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm   Gabriela Georg, I am a student and I love technologies  👋
+
+**GabrielaGeorg/GabrielaGeorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some things about me:
 
 <!--
 **GabrielaGeorg/GabrielaGeorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
