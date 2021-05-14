@@ -1,7 +1,13 @@
 ### Hi there, I'm   Gabriela Georg, I am a student and I love technologies  👋
 
-**GabrielaGeorg/GabrielaGeorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some things about me:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning AIML and HTML
+- 👯 I’m looking to collaborate on projects
+- 🤔 I’m looking for help with codes
+- 💬 Ask me about design
+- 📫 How to reach me: gabrielatedescorochageorg@gmail.com oder @georg_gabi
+- ⚡ Fun fact: I play volleyball
+-->
 
 <!--
 **GabrielaGeorg/GabrielaGeorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
