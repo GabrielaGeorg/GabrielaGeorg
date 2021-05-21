@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with codes
 - 💬 Ask me about design
-- 📫 How to reach me: gabrielatedescorochageorg@gmail.com oder @georg_gabi
+- 📫 How to reach me: gabrielatedescorochageorg@gmail.com or @georg_gabi
 - ⚡ Fun fact: I play volleyball
 -->
 
